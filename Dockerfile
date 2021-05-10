@@ -1,4 +1,4 @@
-FROM python:3.8.10-slim-buster
+FROM python:3.9.5-slim-buster
 MAINTAINER Shekhar Gulati "shekhargulati84@gmail.com"
 COPY . /app
 WORKDIR /app
